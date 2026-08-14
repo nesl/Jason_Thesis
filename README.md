@@ -1,4 +1,4 @@
-Jason's Thesis Landing Page
+## Jason's Thesis Landing Page
 
 ### [FlexLoc](https://arxiv.org/abs/2406.06796)
 
